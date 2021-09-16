@@ -1,0 +1,12 @@
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\bin\Debug\net5.0\RandomData.deps.json
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\bin\Debug\net5.0\RandomData.dll
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\bin\Debug\net5.0\ref\RandomData.dll
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\bin\Debug\net5.0\RandomData.pdb
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.csproj.AssemblyReference.cache
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.AssemblyInfoInputs.cache
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.AssemblyInfo.cs
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.csproj.CoreCompileInputs.cache
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.dll
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\ref\RandomData.dll
+C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomData\obj\Debug\net5.0\RandomData.pdb
