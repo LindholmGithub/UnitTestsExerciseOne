@@ -10,3 +10,15 @@ C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\ne
 C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.dll
 C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\ref\RandomDataTwo.dll
 C:\Users\Christian\RiderProjects\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.pdb
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\bin\Debug\net5.0\RandomDataTwo.deps.json
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\bin\Debug\net5.0\RandomDataTwo.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\bin\Debug\net5.0\ref\RandomDataTwo.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\bin\Debug\net5.0\RandomDataTwo.pdb
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.AssemblyInfo.cs
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\ref\RandomDataTwo.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\RandomDataTwo\obj\Debug\net5.0\RandomDataTwo.pdb

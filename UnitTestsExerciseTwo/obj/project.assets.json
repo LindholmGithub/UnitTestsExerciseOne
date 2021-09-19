@@ -4974,11 +4974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\UnitTestsExerciseTwo.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\UnitTestsExerciseTwo.csproj",
       "projectName": "UnitTestsExerciseTwo",
-      "projectPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\UnitTestsExerciseTwo.csproj",
+      "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\UnitTestsExerciseTwo.csproj",
       "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\obj\\",
+      "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseTwo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4993,8 +4993,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj": {
-              "projectPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj"
+            "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj": {
+              "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj"
             }
           }
         }

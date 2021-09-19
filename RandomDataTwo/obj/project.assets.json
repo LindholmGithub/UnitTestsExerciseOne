@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
       "projectName": "RandomDataTwo",
-      "projectPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
+      "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
       "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomDataTwo\\obj\\",
+      "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"

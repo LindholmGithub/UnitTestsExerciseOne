@@ -4,22 +4,19 @@ namespace RandomDataTwo
 {
     public class TestThisProjectTwo
     {
-        private int noCloudBurst = -1;
+        private const int NoCloudBurst = -1;
+        private const double CloudBurstLimit = 20.0;
         private int cloudBurstCounter = 0;
         public int ContainsCloudburst(double[] rain)
         {
-            foreach (var entry in rain)
+            foreach (var miliRain in rain)
             {
-                if (entry >= 20.0)
+                if (miliRain >= CloudBurstLimit)
                 {
-                    cloudBurstCounter++;
+                    return Array.IndexOf(rain, miliRain)+1;
                 }
             }
-            if (cloudBurstCounter != 0)
-            {
-                return cloudBurstCounter;
-            }
-            return noCloudBurst;
+            return NoCloudBurst;
         }
     }
 }

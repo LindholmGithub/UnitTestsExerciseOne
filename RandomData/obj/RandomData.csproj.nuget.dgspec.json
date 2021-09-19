@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj": {}
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj": {
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
         "projectName": "RandomData",
-        "projectPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
+        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
         "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\RiderProjects\\UnitTestsExerciseOne\\RandomData\\obj\\",
+        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
