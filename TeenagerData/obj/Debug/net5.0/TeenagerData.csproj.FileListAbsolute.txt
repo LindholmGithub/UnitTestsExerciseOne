@@ -1,0 +1,12 @@
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\bin\Debug\net5.0\TeenagerData.deps.json
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\bin\Debug\net5.0\TeenagerData.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\bin\Debug\net5.0\ref\TeenagerData.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\bin\Debug\net5.0\TeenagerData.pdb
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.AssemblyInfo.cs
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\ref\TeenagerData.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\UnitTestsExerciseOne\TeenagerData\obj\Debug\net5.0\TeenagerData.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/UnitTestsExerciseInClassOne/UnitTestsExerciseInClassOne.csproj": {}
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseInClassOne\\UnitTestsExerciseInClassOne.csproj": {}
   },
   "projects": {
-    "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/GradeData.csproj": {
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\GradeData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/GradeData.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\GradeData.csproj",
         "projectName": "GradeData",
-        "projectPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/GradeData.csproj",
-        "packagesPath": "/Users/EAK/.nuget/packages/",
-        "outputPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/",
+        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\GradeData.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/EAK/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/EAK/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/UnitTestsExerciseInClassOne/UnitTestsExerciseInClassOne.csproj": {
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseInClassOne\\UnitTestsExerciseInClassOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/UnitTestsExerciseInClassOne/UnitTestsExerciseInClassOne.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseInClassOne\\UnitTestsExerciseInClassOne.csproj",
         "projectName": "UnitTestsExerciseInClassOne",
-        "projectPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/UnitTestsExerciseInClassOne/UnitTestsExerciseInClassOne.csproj",
-        "packagesPath": "/Users/EAK/.nuget/packages/",
-        "outputPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/UnitTestsExerciseInClassOne/obj/",
+        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseInClassOne\\UnitTestsExerciseInClassOne.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\UnitTestsExerciseInClassOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/EAK/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/GradeData.csproj": {
-                "projectPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/GradeData.csproj"
+              "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\GradeData.csproj": {
+                "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\GradeData\\GradeData.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/EAK/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

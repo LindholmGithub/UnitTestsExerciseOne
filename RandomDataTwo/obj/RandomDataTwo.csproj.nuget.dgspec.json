@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomDataTwo/RandomDataTwo.csproj": {}
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj": {}
   },
   "projects": {
-    "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomDataTwo/RandomDataTwo.csproj": {
+    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomDataTwo/RandomDataTwo.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
         "projectName": "RandomDataTwo",
-        "projectPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomDataTwo/RandomDataTwo.csproj",
-        "packagesPath": "/Users/EAK/.nuget/packages/",
-        "outputPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomDataTwo/obj/",
+        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\RandomDataTwo.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomDataTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/EAK/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/EAK/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
