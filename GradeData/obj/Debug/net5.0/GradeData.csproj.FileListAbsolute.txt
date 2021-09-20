@@ -1,0 +1,12 @@
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/bin/Debug/net5.0/GradeData.deps.json
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/bin/Debug/net5.0/GradeData.dll
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/bin/Debug/net5.0/ref/GradeData.dll
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/bin/Debug/net5.0/GradeData.pdb
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.csproj.AssemblyReference.cache
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.AssemblyInfoInputs.cache
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.AssemblyInfo.cs
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.csproj.CoreCompileInputs.cache
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.dll
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/ref/GradeData.dll
+/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/GradeData/obj/Debug/net5.0/GradeData.pdb

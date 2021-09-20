@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Christian\\.nuget\\packages\\": {}
+    "/Users/EAK/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
+      "projectUniqueName": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomData/RandomData.csproj",
       "projectName": "RandomData",
-      "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\RandomData.csproj",
-      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\UnitTestsExerciseOne\\RandomData\\obj\\",
+      "projectPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomData/RandomData.csproj",
+      "packagesPath": "/Users/EAK/.nuget/packages/",
+      "outputPath": "/Users/EAK/Documents/RiderProjects/UnitTestsExerciseOne/RandomData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/EAK/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/EAK/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

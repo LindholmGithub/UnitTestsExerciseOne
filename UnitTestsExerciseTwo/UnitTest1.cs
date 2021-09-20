@@ -20,5 +20,12 @@ namespace UnitTestsExerciseTwo
             int expectedResult = 4;
             Assert.AreEqual(_testThisProjectTwo.ContainsCloudburst(rain), expectedResult);
         }
+        [Test]
+        public void DoesArrayNotContainNumber20OrHigher()
+        {
+            double[] rain = { 5, 10, 15, 16, 17};
+            int expectedResult = -1;
+            Assert.AreEqual(_testThisProjectTwo.ContainsCloudburst(rain), expectedResult);
+        }
     }
 }
